@@ -1,0 +1,7 @@
+case_id,age,sex,symptoms,duration,severity,medical_history,current_medications,allergies,natural_input
+CASE-001,22,Female,"Fever, cough, sore throat",2 days,Mild,No known relevant condition,None,None,"I have been having fever and cough for two days. My throat is also painful."
+CASE-002,45,Male,"Chest tightness, shortness of breath, fatigue",3 hours,Severe,Hypertension,Amlodipine 5mg,Penicillin,"I started feeling severe tightness across my chest with breathing difficulty about 3 hours ago."
+CASE-003,31,Female,"Throbbing headache, nausea, light sensitivity",1 day,Moderate,Migraine history,Ibuprofen,None,"I have a severe pulsating headache on the right side of my head with nausea and sensitivity to light since yesterday."
+CASE-004,8,Male,"High fever, itchy red spots, loss of appetite",3 days,Moderate,None,Paracetamol syrup,None,"My child has had a high fever for three days and now has itchy red spots spreading across the chest and back."
+CASE-005,65,Male,"Knee swelling, joint pain, morning stiffness",3 weeks,Moderate,Osteoarthritis,Glucosamine,Sulfa drugs,"Both my knees have severe aching pain and morning stiffness lasting over an hour for the past three weeks."
+CASE-006,28,Female,"Abdominal cramping, watery diarrhea, low-grade fever",2 days,Mild,Irritable Bowel Syndrome,Probiotics,Lactose,"I have been experiencing abdominal cramps and loose watery stools with a mild fever for the past two days."

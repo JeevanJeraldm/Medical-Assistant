@@ -1,0 +1,87 @@
+======================================================================
+   AI-POWERED MEDICAL SYMPTOM ASSISTANT REPORT (GPT-4)
+   Generated: 2026-10-23 20:57:07
+======================================================================
+
+1. Reported Symptoms
+--------------------------------
+• Fever
+• Cough
+• Sore throat
+
+==================================================
+
+2. Patient Information
+--------------------------------
+• Age: 22
+• Sex: Female
+• Reported Symptoms: Fever, cough and sore throat
+• Duration: 2 days
+• Severity: Mild
+• Medical History: No known relevant condition
+• Current Medications: None
+• Allergies: None
+
+==================================================
+
+3. Possible Conditions
+--------------------------------
+• Common Cold
+• COVID-19
+• Influenza (Flu)
+
+Note:
+These symptoms can occur in multiple conditions.
+The information provided is not sufficient to
+establish a diagnosis.
+
+==================================================
+
+4. Explanation
+--------------------------------
+The reported symptoms (Fever, Cough, Sore throat) commonly reflect an immune response to an upper respiratory tract irritation or infection. Fever indicates that the body's thermoregulatory center in the hypothalamus has elevated core temperature to combat pathogens, while cough and sore throat result from localized inflammation of the pharyngeal and bronchial mucous membranes. Because these systemic and mucosal manifestations overlap across multiple viral and bacterial etiologies, further clinical evaluation is necessary to distinguish the precise cause.
+
+==================================================
+
+5. Missing Information
+--------------------------------
+• Exact temperature
+• Breathing difficulty
+• Severity progression
+• Cough nature (dry or producing mucus/phlegm)
+• Additional symptoms
+• Oxygen saturation (SpO2) and pulse rate
+
+==================================================
+
+6. Follow-up Questions
+--------------------------------
+1. What is your measured temperature?
+2. When exactly did the symptoms begin?
+3. Are you experiencing difficulty breathing?
+4. Is the cough dry or producing mucus?
+5. Are the symptoms improving or worsening?
+
+==================================================
+
+7. Medical Attention Guidance
+--------------------------------
+MEDICAL ATTENTION
+--------------------------------
+If symptoms are severe, rapidly worsening,
+or concerning, seek appropriate professional
+medical care.
+
+==================================================
+
+8. Disclaimer
+--------------------------------
+DISCLAIMER
+--------------------------------
+This AI-generated response is intended for
+educational and informational purposes only.
+It is not a medical diagnosis and does not
+replace advice from a qualified healthcare
+professional.
+For serious, worsening or urgent symptoms,
+seek appropriate medical care.

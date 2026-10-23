@@ -9,7 +9,7 @@
 > **Course**: 24CS2506 – Building Applications using GPT-4  
 > **Student**: Jeevan Jerald ([@JeevanJeraldm](https://github.com/JeevanJeraldm))  
 > **Institution**: Department of Computer Science and Engineering  
-> **Repository**: [https://github.com/JeevanJeraldm/MedicalAssistant](https://github.com/JeevanJeraldm/MedicalAssistant)
+> **Repository**: [https://github.com/JeevanJeraldm/Medical-Assistant](https://github.com/JeevanJeraldm/Medical-Assistant)
 
 ---
 
@@ -239,7 +239,7 @@ The `screenshots/` directory contains high-resolution execution graphics:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/JeevanJeraldm/MedicalAssistant.git
+git clone https://github.com/JeevanJeraldm/Medical-Assistant.git
 cd MedicalAssistant
 ```
 
@@ -275,9 +275,9 @@ python colab_runner.py
 
 ## 🌐 Streamlit Cloud Deployment Guide
 To deploy this application to Streamlit Community Cloud:
-1. Fork or push this repository to your GitHub account (`https://github.com/JeevanJeraldm/MedicalAssistant`).
+1. Fork or push this repository to your GitHub account (`https://github.com/JeevanJeraldm/Medical-Assistant`).
 2. Log in to [Streamlit Community Cloud](https://share.streamlit.io/).
-3. Click **"New app"**, select your repository: `JeevanJeraldm/MedicalAssistant`.
+3. Click **"New app"**, select your repository: `JeevanJeraldm/Medical-Assistant`.
 4. Set **Main file path** to `app.py`.
 5. Under **Advanced settings**, optionally set your secret:
    ```toml
@@ -291,4 +291,4 @@ To deploy this application to Streamlit Community Cloud:
 - **Author**: Jeevan Jerald ([@JeevanJeraldm](https://github.com/JeevanJeraldm))
 - **Course**: 24CS2506 – Building Applications using GPT-4
 - **Experiment**: Experiment 6 – AI-Powered Medical Symptom Assistant using GPT-4
-- **Repository**: [https://github.com/JeevanJeraldm/MedicalAssistant](https://github.com/JeevanJeraldm/MedicalAssistant)
+- **Repository**: [https://github.com/JeevanJeraldm/Medical-Assistant](https://github.com/JeevanJeraldm/Medical-Assistant)
